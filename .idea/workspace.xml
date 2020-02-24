@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ec575a5-f2c4-4a02-ab1a-0d650c0ed6b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paint_mini_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changeColor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorChooser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ellipse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newfile.cld.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Ellipse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/MouseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/UR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paint_mini_Project/frame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jsonfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MouseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XmlFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/triangle.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YFjSyumho0hO8kNPmWIaXS7Yzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame" />
+      <module name="Paint_mini_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec575a5-f2c4-4a02-ab1a-0d650c0ed6b9" name="Default Changelist" comment="" />
+      <created>1582545240130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582545240130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="45" key="#Project_Structure" timestamp="1582545375549">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="283" y="45" key="#Project_Structure/0.24.1366.744@0.24.1366.744" timestamp="1582545375549" />
+    <state x="722" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582546767407">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="722" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1366.744@0.24.1366.744" timestamp="1582546767407" />
+    <state x="471" y="141" key="FileChooserDialogImpl" timestamp="1582548612280">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="471" y="141" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1582548612280" />
+    <state width="1320" height="193" key="GridCell.Tab.0.bottom" timestamp="1582553012795">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1582553012795" />
+    <state width="1320" height="193" key="GridCell.Tab.0.center" timestamp="1582553012795">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1582553012795" />
+    <state width="1320" height="193" key="GridCell.Tab.0.left" timestamp="1582553012794">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1582553012794" />
+    <state width="1320" height="193" key="GridCell.Tab.0.right" timestamp="1582553012795">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="193" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1582553012795" />
+    <state x="344" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1582545335366">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="344" y="211" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1582545335366" />
+  </component>
+</project>
